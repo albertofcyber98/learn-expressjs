@@ -1,0 +1,22 @@
+{
+  "name": "learn-expressjs",
+  "version": "1.0.0",
+  "description": "Learn Express JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albertofcyber98/learn-expressjs.git"
+  },
+  "author": "Yohanes Albert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albertofcyber98/learn-expressjs/issues"
+  },
+  "homepage": "https://github.com/albertofcyber98/learn-expressjs#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
